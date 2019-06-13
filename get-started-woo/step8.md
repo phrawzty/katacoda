@@ -1,5 +1,3 @@
-Create integration test stuff
+Introduce *integration test* (Docker!)
 
-Create `awesome/tests/conftest.py`
-
-Add to `awesome/tests/test_awesome.py`
+Create `awesome/tests/docker-compose.yml`

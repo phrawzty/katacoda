@@ -1,1 +1,1 @@
-introduce ddev and set up the scaffolding
+Set up a virtual environment and install ddev.

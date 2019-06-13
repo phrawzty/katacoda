@@ -1,1 +1,5 @@
-Run integration tests on their own: `ddev test -m integration awesome`
+Create integration test stuff
+
+Create `awesome/tests/conftest.py`
+
+Add to `awesome/tests/test_awesome.py`

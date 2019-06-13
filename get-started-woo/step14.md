@@ -1,3 +1,1 @@
-Introduce `service_check.json`
-
-Create `awesome/service_checks.json`
+Introduce `metadata.csv`; in this example it will be empty.

@@ -1,1 +1,3 @@
-Introduce `metadata.csv`; in this example it will be empty.
+Introduce `manifest.json`
+
+Create `awesome/manifest.json`

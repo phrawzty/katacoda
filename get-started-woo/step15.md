@@ -1,1 +1,3 @@
-Introduce "The directory structure for images and logos" and formats
+Introduce `service_check.json`
+
+Create `awesome/service_checks.json`

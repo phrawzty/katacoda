@@ -1,3 +1,1 @@
-Introduce *integration test* (Docker!)
-
-Create `awesome/tests/docker-compose.yml`
+Run the test: `ddev test awesome`

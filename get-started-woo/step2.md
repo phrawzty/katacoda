@@ -1,1 +1,1 @@
-Set up a virtual environment and install ddev.
+Set up the working directory and clone the extras repo.

@@ -1,1 +1,1 @@
-Build the wheel and explain what's in it
+Introduce "The directory structure for images and logos" and formats

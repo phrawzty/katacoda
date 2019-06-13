@@ -1,1 +1,5 @@
-Head to the Datadog web interface and set up a simple dashboard with a widget that reports the status of the integration
+Configure the Agent
+
+Editing the config file directly is likely the easiest choice
+
+Is the web interface possible? should be…

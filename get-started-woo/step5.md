@@ -1,3 +1,3 @@
-Introduce tests (pytest, tox)
+Explain Check as a class, naming, path
 
-Create `awesome/tests/test_awesome.py`
+Create `awesome/datadog_checks/awesome/awesome.py`
