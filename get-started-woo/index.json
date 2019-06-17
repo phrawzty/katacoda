@@ -4,76 +4,108 @@
   "details": {
     "steps": [
       {
-        "title": "Step 1",
-        "text": "step1.md"
+        "title": "Install the Datadog Agent",
+        "text": "install-datadog-agent.md"
       },
       {
-        "title": "Step 2",
-        "text": "step2.md"
+        "title": "Working directory and Extras repo",
+        "text": "dir-and-extras-repo.md"
       },
       {
-        "title": "Step 3",
-        "text": "step3.md"
+        "title": "virtualenv and ddev",
+        "text": "virtualenv-and-ddev.md"
       },
       {
-        "title": "Step 4",
-        "text": "step4.md"
+        "title": "ddev and scaffolding",
+        "text": "ddev-and-scaffolding.md"
       },
       {
-        "title": "Step 5",
-        "text": "step5.md"
+        "title": "The Check class",
+        "text": "the-check-class.md"
       },
       {
-        "title": "Step 6",
-        "text": "step6.md"
+        "title": "Implement check logic.",
+        "text": "implement-check-logic.md"
       },
       {
-        "title": "Step 7",
-        "text": "step7.md"
+        "title": "Introducing unit tests",
+        "text": "introducing-tests.md"
       },
       {
-        "title": "Step 8",
-        "text": "step8.md"
+        "title": "A basic unit test",
+        "text": "basic-unit-test.md"
       },
       {
-        "title": "Step 9",
-        "text": "step9.md"
+        "title": "Run the basic unit test",
+        "text": "run-basic-unit-test.md"
       },
       {
-        "title": "Step 10",
-        "text": "step10.md"
+        "title": "Introducing integration tests",
+        "text": "introducing-integration-tests.md"
       },
       {
-        "title": "Step 11",
-        "text": "step11.md"
+        "title": "Docker config for a basic integration test",
+        "text": "docker-conf-integration-test.md"
       },
       {
-        "title": "Step 12",
-        "text": "step12.md"
+        "title": "A basic integration test",
+        "text": "basic-integration-test.md"
       },
       {
-        "title": "Step 13",
-        "text": "step13.md"
+        "title": "Add the basic integration test",
+        "text": "add-integration-test.md"
       },
       {
-        "title": "Step 14",
-        "text": "step14.md"
+        "title": "Run the basic integration test",
+        "text": "run-basic-integration-test.md"
       },
       {
-        "title": "Step 15",
-        "text": "step15.md"
+        "title": "Introducing configuration files",
+        "text": "introducing-configuration-files.md"
       },
       {
-        "title": "Step 16",
-        "text": "step16.md"
+        "title": "Populate the README",
+        "text": "populate-the-readme.md"
       },
       {
-        "title": "Step 17",
-        "text": "step17.md"
+        "title": "Introducing conf.yaml: init_config and instances",
+        "text": "introducing-conf-yaml.md"
       },
       {
-        "title": "Step 18",
-        "text": "step18.md"
+        "title": "conf.yaml.example",
+        "text": "conf-yaml-example.md"
+      },
+      {
+        "title": "Introducing manifest.json",
+        "text": "introducing-manifest-json.md"
+      },
+      {
+        "title": "Populate manifest.json",
+        "text": "populate-manifest-json.md"
+      },
+      {
+        "title": "Introducing metadata.csv",
+        "text": "introducing-metadata-csv.md"
+      },
+      {
+        "title": "Introducing service_checks.json",
+        "text": "introducing-service-checks-json.md"
+      },
+      {
+        "title": "Populate service_checks.json",
+        "text": "populate-service-checks-json.md"
+      },
+      {
+        "title": "images-and-logos.md",
+        "text": "images-and-logos.md"
+      },
+      {
+        "title": "Build the wheel",
+        "text": "build-the-wheel.md"
+      },
+      {
+        "title": "Install the wheel",
+        "text": "install-the-wheel.md"
       },
       {
         "title": "Step 19",

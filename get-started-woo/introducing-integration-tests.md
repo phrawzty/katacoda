@@ -1,0 +1,1 @@
+Introduce *integration test* (Docker!)

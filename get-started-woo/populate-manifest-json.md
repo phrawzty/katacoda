@@ -1,0 +1,1 @@
+Populate `awesome/manifest.json`
