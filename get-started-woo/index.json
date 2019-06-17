@@ -108,8 +108,8 @@
         "text": "install-the-wheel.md"
       },
       {
-        "title": "Step 19",
-        "text": "step19.md"
+        "title": "Enable the integration in the Agent",
+        "text": "enable-the-integration.md"
       }
     ],
     "intro": {
