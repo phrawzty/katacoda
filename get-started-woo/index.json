@@ -1,6 +1,8 @@
 {
   "title": "Get Started Woo",
   "description": "This is me trying new things",
+  "difficulty": "Beginner",
+  "time": "Some",
   "details": {
     "steps": [
       {
