@@ -5,7 +5,7 @@ ddev create -n awesome | head -n 2
 
 This will show you the directory where the scaffolding will be generated, as well as the name of the new integration (in this case: `awesome`). Ok, that looks good, so let's run it for real this time:
 ```
-ddev create -n awesome
+ddev create awesome
 ```{{execute}}
 
 This will ask you some basic questions and then create the scaffolding right where we expect it to be.

@@ -1,1 +1,1 @@
-Create `awesome/datadog_checks/awesome/awesome.py`
+Let's create a Service Check named `awesome.search` that searches for a string on a web page. It will result in `OK` if the string is present, `WARNING` if the page is accessible but the string was not found, and `CRITICAL` if the page is inaccessible. The code will live in `awesome/datadog_checks/awesome/awesome.py`.
