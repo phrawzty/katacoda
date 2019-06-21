@@ -1,7 +1,7 @@
 Datadog maintains a [development toolkit](https://github.com/DataDog/integrations-core/tree/master/datadog_checks_dev) that helps to make developing and maintaining integrations easier. It's distributed as a Python package (or "wheel"), but before we can install it, we need to set up our development environment. While it's not obligatory, most people use "Python Virtual Environments" to manage their various projects. Let's set one up now:
 ```
 cd $HOME/dd/integrations-extras
-virtualenv --python=3.7 venv
+virtualenv --python=python3.7 venv
 . venv/bin/activate
 ```{{execute}}
 
