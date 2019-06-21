@@ -11,8 +11,7 @@
       },
       {
         "title": "Working directory and Extras repo",
-        "text": "dir-and-extras-repo.md",
-        "verify": "dir-and-extras-repo-verify.sh"
+        "text": "dir-and-extras-repo.md"
       },
       {
         "title": "virtualenv and ddev",
