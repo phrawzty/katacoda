@@ -4,8 +4,8 @@ There's some great sample code available in the [Datadog documentation](https://
 - Using an editor such as `vim` or `nano` directly in the shell
 - Via the built-in editor in the upper right of this window
 
-Before moving on to the next step, take a moment to examine the code itself. Some questions to ask yourself:
+Before moving on to the next step, take a moment to examine the code. Some questions to ask yourself:
 - What's being imported?
 - What class is `AwesomeCheck` an instance of?
-- What data does this class need to run? How are those variables being populated?
+- What data does the Check need to run? How are those variables being populated? What happens if they're missing?
 - How are the OK/WARNING/CRITICAL state conditions being determined?
