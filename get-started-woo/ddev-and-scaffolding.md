@@ -1,4 +1,4 @@
-One of the developer toolkit features is the `create` command, which creates the basic file and path structure (or "scaffolding") necessary for a new integration. Let’s try a dry-run using the -n/--dry-run flag, which won’t write anything to disk:
+One of the developer toolkit features is the `create` command, which creates the basic file and path structure (or "scaffolding") necessary for a new integration. Let’s try a dry-run using the `-n` flag, which won't write anything to disk:
 ```
 ddev create -n awesome | head -n 2
 ```{{execute}}

@@ -4,5 +4,4 @@ By default, that tooling expects you to be working in the `$HOME/dd/` directoryâ
 ```
 mkdir $HOME/dd && cd $HOME/dd
 git clone https://github.com/DataDog/integrations-extras.git
-cd integrations-extras
 ```{{execute}}
