@@ -10,12 +10,16 @@
         "text": "install-datadog-agent.md"
       },
       {
-        "title": "Working directory and Extras repo",
+        "title": "Working directory and extras repo",
         "text": "dir-and-extras-repo.md"
       },
       {
-        "title": "virtualenv and ddev",
-        "text": "virtualenv-and-ddev.md"
+        "title": "Introduce virtualenv",
+        "text": "set-up-virtualenv.md"
+      },
+      {
+        "title": "Install ddev",
+        "text": "install-ddev.md"
       },
       {
         "title": "ddev and scaffolding",
