@@ -2,11 +2,11 @@
   "title": "Intro to Datadog Integrations",
   "description": "An introduction to Datadog integrations",
   "difficulty": "Beginner",
-  "time": "However much you need—relax!",
+  "time": "However much you need 🏖",
   "details": {
     "assets": {
       "host01": [
-        { "file": ".vimrc", "target": "/root/" }
+        { "file": ".vimrc", "target": "~/" }
       ]
     },
     "steps": [
