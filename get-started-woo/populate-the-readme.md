@@ -2,3 +2,5 @@ The oldest, most venerable form of documentation in the tech world is the README
 
 For now, let's just pop a brief description of our integration into the **Overview** section:
 > This integration queries a webpage and looks for a specific string.
+
+Before moving on, make a note of the **Service Checks** section—we'll circle back to that later on.
