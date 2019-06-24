@@ -12,7 +12,7 @@
       "host01": [
         {
           "file": "docker-compose.yml",
-          "target": "/root/docker-compose.yml"
+          "target": "/root/"
         }
       ]
     }
