@@ -1,11 +1,4 @@
-The oldest, most venerable form of documentation in the tech world is the README, so let's start there. The scaffolding includes a basic `awesome/README.md` that needs to be filled out.
+The oldest, most venerable form of documentation in the tech world is the README, so let's start there. The scaffolding includes a basic `awesome/README.md` that needs to be filled out. The sections are relatively self-explanatory and provide hints as to the _other_ configuration files that we'll be looking at momentarily.
 
-## Overview
-
-This section is a brief description of what the integration is and what it does.
-
-### Setup
-
-### Installation
-
-
+For now, let's just pop a brief description of our integration into the **Overview** section:
+> This integration queries a webpage and looks for a specific string.
