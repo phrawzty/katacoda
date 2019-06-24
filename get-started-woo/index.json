@@ -71,16 +71,12 @@
         "text": "run-basic-integration-test.md"
       },
       {
-        "title": "Introducing configuration files",
-        "text": "introducing-configuration-files.md"
-      },
-      {
         "title": "Populate the README",
         "text": "populate-the-readme.md"
       },
       {
-        "title": "Introducing conf.yaml: init_config and instances",
-        "text": "introducing-conf-yaml.md"
+        "title": "Introducing configuration files",
+        "text": "introducing-configuration-files.md"
       },
       {
         "title": "conf.yaml.example",

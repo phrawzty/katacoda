@@ -10,4 +10,4 @@ ERROR:   style: commands failed
 
 If you didn't, congratulations! If you _did_, it's very easy to fix—the tooling can even do it for you:
 
-
+And that's it: we now have a functional integration, complete with tests! We're done with code (for now), so let's move on to the rest of the bits and pieces that make up a complete integration…
