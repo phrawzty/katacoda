@@ -83,24 +83,16 @@
         "text": "conf-yaml-example.md"
       },
       {
-        "title": "Introducing manifest.json",
-        "text": "introducing-manifest-json.md"
-      },
-      {
         "title": "Populate manifest.json",
         "text": "populate-manifest-json.md"
       },
       {
-        "title": "Introducing metadata.csv",
-        "text": "introducing-metadata-csv.md"
-      },
-      {
-        "title": "Introducing service_checks.json",
-        "text": "introducing-service-checks-json.md"
-      },
-      {
         "title": "Populate service_checks.json",
         "text": "populate-service-checks-json.md"
+      },
+      {
+        "title": "Introducing metadata.csv",
+        "text": "introducing-metadata-csv.md"
       },
       {
         "title": "images-and-logos.md",
