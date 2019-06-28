@@ -2,13 +2,13 @@ You're almost there! All that's left to do now is to enable the integration with
 
 Let's take a look at the example configuration:
 ```
-cat /etc/datadog-agent/conf.d/awesome.d/config.yaml.example | grep -v "^$\|#"
+cat /etc/datadog-agent/conf.d/awesome.d/conf.yaml.example | grep -v "^$\|#"
 ```{{execute}}
 
 [Looks familiar](https://docs.datadoghq.com/developers/integrations/new_check_howto/#example-configuration), right? In fact, this configration is ready to go, so let's activate it:
 ```
-cp /etc/datadog-agent/conf.d/awesome.d/config.yaml.example /etc/datadog-agent/conf.d/awesome.d/config.yaml
-chown dd-agent /etc/datadog-agent/conf.d/awesome.d/config.yaml
+cp /etc/datadog-agent/conf.d/awesome.d/conf.yaml.example /etc/datadog-agent/conf.d/awesome.d/conf.yaml
+chown dd-agent /etc/datadog-agent/conf.d/awesome.d/conf.yaml
 ```{{execute}}
 
 The last thing to do now is to restart the Agent so that it picks up the new configuration file:
