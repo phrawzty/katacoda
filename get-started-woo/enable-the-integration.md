@@ -13,5 +13,10 @@ chown dd-agent /etc/datadog-agent/conf.d/awesome.d/config.yaml
 
 The last thing to do now is to restart the Agent so that it picks up the new configuration file:
 ```
-service dd-agent restart
+systemctl restart datadog-agent
+```{{execute}}
+
+And let's make sure that worked:
+```
+systemctl status datadog-agent
 ```{{execute}}

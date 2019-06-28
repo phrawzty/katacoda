@@ -109,6 +109,14 @@
       {
         "title": "Enable the integration in the Agent",
         "text": "enable-the-integration.md"
+      },
+      {
+        "title": "Verify the activation",
+        "text": "verify-the-activation.md"
+      },
+      {
+        "title": "Set up a dashboard",
+        "text": "set-up-a-dashboard.md"
       }
     ],
     "intro": {
