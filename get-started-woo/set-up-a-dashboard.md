@@ -1,1 +1,1 @@
-Set up a dashboard with a simple status widget in it
+Set up a *screenboard* with a Check Status widget.
