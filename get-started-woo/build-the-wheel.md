@@ -3,7 +3,7 @@ Next stop: the wheel. Wheels are a Python-native packaging format. If you've eve
 ddev release build awesome
 ```{{execute}}
 
-The output contains an important line: the path where the wheel file that was built. To wit:
+The output contains an important line: the path where the wheel file that was built. Let's take a look:
 ```
 ls -l /root/dd/integrations-extras/awesome/dist
 ```{{execute}}
