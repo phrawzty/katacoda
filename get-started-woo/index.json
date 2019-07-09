@@ -130,6 +130,6 @@
     "uilayout": "editor-terminal"
   },
   "backend": {
-    "imageid": "datadog-ubuntu"
+    "imageid": "datadog-ubuntu-py37"
   }
 }
