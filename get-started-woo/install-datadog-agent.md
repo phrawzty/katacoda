@@ -4,4 +4,4 @@ Now we know! Install the Agent by copying and pasting the "[easy one-step instal
 
 So why install the Agent now—before we've even started coding? This way, when we're ready to test things later on, our little virtual machine will have been reporting data for a while, which will make it more interesting by the time we get to the end of this course. 😀
 
-Once you've got a prompt again, be sure to verify that the Agent is running: `systemctl status datadog-agent`{{execute}}.
+Once you've got a prompt again, be sure to verify that the Agent is running before continuing: `systemctl status datadog-agent`{{execute}}.

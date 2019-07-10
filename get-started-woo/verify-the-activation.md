@@ -11,6 +11,6 @@ datadog-agent status | grep -A7 awesome
 Oh, and if JSON is your jam:
 ```
 datadog-agent status -p | jq '.runnerStats.Checks.awesome'
-```
+```{{execute}}
 
 Feel free to play around with the status output to get a feel for what's available. 👍

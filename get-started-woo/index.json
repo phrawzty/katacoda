@@ -95,7 +95,7 @@
         "text": "introducing-metadata-csv.md"
       },
       {
-        "title": "images-and-logos.md",
+        "title": "Images and logos",
         "text": "images-and-logos.md"
       },
       {
@@ -121,11 +121,13 @@
     ],
     "intro": {
       "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
     }
   },
   "environment": {
-    "uilayout": "editor-terminal",
-    "hidefinish": true
+    "uilayout": "editor-terminal"
   },
   "backend": {
     "imageid": "datadog-ubuntu-py37",
