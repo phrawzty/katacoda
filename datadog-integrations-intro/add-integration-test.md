@@ -4,3 +4,5 @@ In general, it's good policy to look before you leap, so here are some things to
 - This is an integration test—how is that specified?
 - How does it know to use the Docker environment for this test?
 - Which two states are being tested (and which is _not_)?
+- Where does the `instance` parameter come from?
+- Bonus: What is the `aggregator` parameter?
