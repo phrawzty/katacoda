@@ -120,7 +120,8 @@
       }
     ],
     "intro": {
-      "text": "intro.md"
+      "text": "intro.md",
+      "courseData": "scripts/init.sh"
     },
     "finish": {
       "text": "finish.md"
@@ -130,7 +131,7 @@
     "uilayout": "editor-terminal"
   },
   "backend": {
-    "imageid": "ubuntu:2004",
+    "imageid": "ubuntu:1804",
     "reuseConnection": true,
     "livetime": "210m"
   }
