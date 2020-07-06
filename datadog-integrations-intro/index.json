@@ -79,6 +79,10 @@
         "text": "introducing-configuration-files.md"
       },
       {
+        "title": "spec.yaml",
+        "text": "spec-yaml.md"
+      },
+      {
         "title": "conf.yaml.example",
         "text": "conf-yaml-example.md"
       },
