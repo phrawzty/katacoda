@@ -6,6 +6,6 @@ There's some great sample code available in the [Datadog documentation](https://
 
 Before moving on to the next step, take a moment to examine the code. Some questions to ask yourself:
 - What's being imported?
-- What class is `AwesomeCheck` an instance of?
+- What class is `AwesomeCheck` an sub-class of?
 - What data does the Check need to run? How are those variables being populated? What happens if they're missing?
 - How are the OK/WARNING/CRITICAL state conditions being determined?
