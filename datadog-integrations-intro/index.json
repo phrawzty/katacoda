@@ -130,7 +130,7 @@
     "uilayout": "editor-terminal"
   },
   "backend": {
-    "imageid": "datadog-ubuntu-py37",
+    "imageid": "ubuntu1804",
     "reuseConnection": true,
     "livetime": "210m"
   }
