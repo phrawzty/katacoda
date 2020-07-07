@@ -8,5 +8,5 @@ python -m venv venv
 Notice how the prompt has `(venv)` in it now. This is a quick way to know whether a virtualenv is active or not.
 
 Some questions:
-- What does that `.` do, in the venv activation command? (hint: `help .`{{execute}})
+- What does that `.` do in the venv activation command? (hint: `help .`{{execute}})
 - How would we deactivate the venv, should we do desire?
