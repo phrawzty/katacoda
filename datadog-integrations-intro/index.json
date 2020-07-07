@@ -11,6 +11,10 @@
     },
     "steps": [
       {
+        "title": "Welcome!",
+        "text": "welcome.md"
+      },
+      {
         "title": "Install the Datadog Agent",
         "text": "install-datadog-agent.md"
       },
