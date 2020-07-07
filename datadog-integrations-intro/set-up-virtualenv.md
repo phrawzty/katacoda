@@ -5,4 +5,8 @@ python -m venv venv
 . venv/bin/activate
 ```{{execute}}
 
-This has set up our virtual environement in a new directory named `venv`. Also note that we specified a version of Python to use—this is important because there are multiple versions of Python available on the system, and we don't want to mix them up. Finally, the environment has been activated (notice how the prompt has `(venv)` in it now).
+Notice how the prompt has `(venv)` in it now. This is a quick way to know whether a virtualenv is active or not.
+
+Some questions:
+* What does that `.` do, in the venv activation command? (hint: `help .`{{execute}})
+* How would we deactivate the venv, should we do desire?
