@@ -9,3 +9,7 @@ ddev create awesome
 ```{{execute}}
 
 This will ask you some basic questions and then create the scaffolding right where we expect it to be.
+
+Questions:
+* What did that `| head` portion of the dry-run command do?
+* What other arguments could we pass to `ddev create`? How could we find out?
