@@ -6,5 +6,4 @@ Pop over to the [Configuration template](https://docs.datadoghq.com/developers/i
 
 If you want to learn more about `spec.yaml`, the [Datadog integrations-core developer site](https://datadoghq.dev/integrations-core/meta/config-specs/) goes into great detail, and you'll want to review it for any real-world integration. For now, however, let's ponder a few questions:
 - What does the `--sync` argument to `ddev` indicate, exactly?
-- What does uncommenting that final `template:` line do?
-  - Why might it be pertinent to this exact use-case?
+- What do we learn from running `ddev validate config --verbose`{{execute}}?
