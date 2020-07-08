@@ -11,6 +11,6 @@ echo "Setting python3 as the default..." | wall -n
 update-alternatives --install /usr/bin/python python /usr/bin/python3.8 1
 
 # Ready to go!
-echo "You're good to go! (hit enter)" | wall -n
+echo "You're good to go!" | wall -n
 
 exit 0
