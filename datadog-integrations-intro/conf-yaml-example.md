@@ -7,4 +7,4 @@ Thinking back to `spec.yaml` (since these files are related):
 - What does uncommenting that final `template:` line do? (Go ahead and try it!)
   - Why might it be pertinent to this exact use-case?
 
- If you want to learn more about the configuration specification itself, the [Datadog integrations documentation](https://docs.datadoghq.com/developers/integrations/check_references/#configuration-file) goes into the details. For now, let's roll on!
+If you want to learn more about the configuration specification itself, the [Datadog integrations documentation](https://docs.datadoghq.com/developers/integrations/check_references/#configuration-file) goes into the details. For now, let's roll on!
