@@ -9,4 +9,4 @@ Notice how the prompt has `(venv)` in it now. This is a quick way to know whethe
 
 Some questions:
 - What does that `.` do in the venv activation command? (hint: `help .`{{execute}})
-- How would we deactivate the venv, should we do desire?
+- How would we deactivate the venv, should we so desire? (Don't forget to turn it back on though. 🙂)
