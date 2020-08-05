@@ -14,7 +14,7 @@ Files can also be opened in the editor via special links, for example: `hello_wo
 
 When this course was loaded, a small series of initialisation actions (generally referred to as "init") kicked off. The init will be complete when you see `You're good to go!`. Oh, one last thing: whenever you see some `fixed-width text` with a ⏎ following it, that means you can click on the text to execute that command in the terminal. For example: `echo "Hello, World!"`{{execute}}
 
-And while this has already been said, it's very important: do _not_ close or exit from the terminal. You'll have to start all over again if you do. In fact, go ahead and open a backup terminal by clicking the big ➕ button below, just in case.
+And while this has already been said, it's very important: do _not_ close or exit from the terminal. You'll have to start all over again if you do. In fact, go ahead and open a backup terminal by clicking the big ➕ button, just in case.
 
 Your first challenges:
 - Run a command directly in the terminal (try `echo "hi"`).
