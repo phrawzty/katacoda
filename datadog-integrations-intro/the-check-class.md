@@ -8,3 +8,11 @@ tree $HOME/dd/integrations-extras/awesome/datadog_checks/awesome/
 ```{{execute}}
 
 `check.py` looks promising! Let's start there…
+
+### TEST
+
+- `awesome/datadog_checks/awesome/`{{open}}
+- `integrations-extras/awesome/datadog_checks/awesome/`{{open}}
+- `dd/integrations-extras/awesome/datadog_checks/awesome/`{{open}}
+- `$HOME/dd/integrations-extras/awesome/datadog_checks/awesome/`{{open}}
+- `/root/dd/integrations-extras/awesome/datadog_checks/awesome/`{{open}}
